@@ -1274,3 +1274,8 @@ img{
 .ui-menu-item:hover{
 	background-color:var(--main-color);
 }
+
+
+.full-height-banner {
+  min-height: calc(var(--vh, 1vh) * 100);
+}
